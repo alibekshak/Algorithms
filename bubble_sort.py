@@ -11,5 +11,5 @@ def Bubble_sort(list):
     
     return list
 
-list = [1, 2, 44, 22, 12, 48, 5, 34]
-print(Bubble_sort(list))
+# list = [1, 2, 44, 22, 12, 48, 5, 34]
+# print(Bubble_sort(list))
